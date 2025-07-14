@@ -37,13 +37,13 @@ You control a rocket ship, dodge incoming meteors, and try to survive as long as
 ## 📸 Screenshots
 
 ### Main menu
-![Main menu](screenshots/MainMenu.png)
+![Main menu](screenshots/MainMenu.PNG)
 
 ### Main Game
-![Main Game](screenshots/Game.png)
+![Main Game](screenshots/Game.PNG)
 
 ### Restart
-![Restart](screenshots/Restartmenu.png)
+![Restart](screenshots/Restartmenu.PNG)
 
 
 
