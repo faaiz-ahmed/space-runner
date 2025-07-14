@@ -50,13 +50,21 @@ You control a rocket ship, dodge incoming meteors, and try to survive as long as
 ## 📂 Project Structure
 
 Assets/
+
 ├── Scenes/
+
 ├── Scripts/
+
 ├── Sprites/
+
 ├── Prefabs/
+
 ├── TextMesh Pro/
+
 ProjectSettings/
+
 Packages/
+
 ## 📌 How to Run
 
 1. Open project in Unity Hub
